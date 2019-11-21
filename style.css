@@ -6,8 +6,8 @@
 body {
     background: #fc5b42;
     background: linear-gradient(-45deg,#25d9cd,#8825d9,#cccc31,#ccc783);
-    background-size:1000% 1000%;
-    animation: pol 15s ease infinite;
+    background-size:900% 900%;
+    animation: pol 9s ease infinite;
 }
 @-webkit-keyframes pol{
     0%{
@@ -32,8 +32,8 @@ border-radius: 40px 40px 40px 40px;
 
     background: #fc5b42;
     background: linear-gradient(-45deg,#25d9cd,#8825d9,#cccc31,#ccc783);
-    background-size:3000% 3000%;
-    animation: pol 15s ease infinite;
+    background-size:1000% 1000%;
+    animation: pol 9s ease infinite;
   
 -webkit-box-shadow: 0px 0px 58px -17px rgba(214,214,214,1);
 -moz-box-shadow: 0px 0px 58px -17px rgba(214,214,214,1);
@@ -84,7 +84,7 @@ border-radius: 50px 50px 50px 50px;
     height: 60px;
     background: #f0ffe8;
     background: linear-gradient(-45deg,black,#f0ffe8,black,#f0ffe8);
-    background-size:1000% 1000%;
+    background-size:700% 700%;
     animation: pol 15s ease infinite;
     opacity: .8;
     margin: 0 .92%;
