@@ -6,7 +6,7 @@
 body {
     background: #fc5b42;
     background: linear-gradient(-45deg,#25d9cd,#8825d9,#cccc31,#ccc783);
-    background-size:3000% 3000%;
+    background-size:1000% 1000%;
     animation: pol 15s ease infinite;
 }
 @-webkit-keyframes pol{
@@ -84,7 +84,7 @@ border-radius: 50px 50px 50px 50px;
     height: 60px;
     background: #f0ffe8;
     background: linear-gradient(-45deg,black,#f0ffe8,black,#f0ffe8);
-    background-size:1500% 1500%;
+    background-size:1000% 1000%;
     animation: pol 15s ease infinite;
     opacity: .8;
     margin: 0 .92%;
